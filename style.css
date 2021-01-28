@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+}
+
+.header {
+    width: 80%;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.myList li{
+    background-color: aqua;
+    border: 0px;
+    font-size: 30px;
+    color: white;
+    border-bottom: 2px solid;
+}
+
+.giveBorder {
+    border: 4px solid;
+    height: 300px;
+    width: 400px;
+}
