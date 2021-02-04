@@ -22,3 +22,15 @@ body{
     height: 300px;
     width: 400px;
 }
+
+#result {
+    display: none;
+}
+
+#identify {
+    display: none;
+}
+
+#doNotShow {
+    display:none;
+}
